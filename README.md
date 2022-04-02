@@ -1,5 +1,5 @@
-- 👋 Hi, I am Nadia
-- 👀 I am learning HTML, CSS, JavaScript, React, MongoDB, Node.js, Express.js, Typescript
-- 🌱 I have recently finished the Yandex.Practicum web development course and continue doing my pet-projects
+- 👋 Hi, I'm Nadia
+- 👀 I'm learning HTML, CSS, JavaScript, React, MongoDB, Node.js, Express.js, TypeScript
+- 🌱 I've recently finished the Yandex.Practicum web development course and continue doing my pet-projects
 - 💞️ I want to become a cool Frontend Developer
 - 📫 Please contact me by nad.platonova90@yandex.ru
