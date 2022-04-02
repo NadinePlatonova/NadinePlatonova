@@ -1,5 +1,5 @@
-- 👋 Привет, меня зовут Надя
-- 👀 Я изучаю HTML, CSS, JavaScript, React, MongoDB, Node.js, Express.js
-- 🌱 Недавно я закончила курсы Яндекс.Практикума по веб-разработке и продолжаю делать pet-проекты
-- 💞️ Хочу стать классным Frontend Developer
-- 📫 Со мной можно связаться по nad.platonova90@yandex.ru
+- 👋 Hi, I am Nadia
+- 👀 I am learning HTML, CSS, JavaScript, React, MongoDB, Node.js, Express.js, Typescript
+- 🌱 I have recently finished the web development courses by Yandex.Practicum and continue doing pet-projects
+- 💞️ I want to become a cool Frontend Developer
+- 📫 Please contact me by nad.platonova90@yandex.ru
