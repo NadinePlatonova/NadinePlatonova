@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Nadia 👋</h1> 
 <h2 align="center">Frontend JavaScript Web Developer</h2>
+<p align="center">but sometimes my cat codes instead of me</p>
 <img src="https://github.com/NadinePlatonova/NadinePlatonova/blob/main/cat-coding.gif" style ="display: block; width: 100%">
 
 - 💻 My stack: HTML, CSS, JavaScript, React, Node.js, Express.js, TypeScript
