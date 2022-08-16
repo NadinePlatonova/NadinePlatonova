@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Nadia 👋</h1> 
 <h2 align="center">Frontend JavaScript Web Developer</h2>
+<img src="https://github.com/NadinePlatonova/NadinePlatonova/blob/main/cat-coding.gif" style ="display: block; width: 100%">
 
 - 💻 My stack: HTML, CSS, JavaScript, React, Node.js, Express.js, TypeScript
 - 👀 In 2021 dived into web development, I enjoy moving even deeper, the bottom is not visible at all 😄
