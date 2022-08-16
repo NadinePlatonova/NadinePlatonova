@@ -1,4 +1,5 @@
-### Hi there, I'm Nadia 👋
+<h1 align="center">Hi there, I'm Nadia 👋</h1> 
+<h2 align="center">Frontend JavaScript Web Developer</h2>
 
 - 💻 My stack: HTML, CSS, JavaScript, React, Node.js, Express.js, TypeScript
 - 👀 In 2021 dived into web development, I enjoy moving even deeper, the bottom is not visible at all 😄
