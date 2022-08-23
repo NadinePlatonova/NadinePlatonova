@@ -11,5 +11,6 @@
 - 📫 You can reach me at dev.nadia.platonova@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nadia-p-frontend/)
 - ⚡ Fun fact: accidentally became a recruiter and worked in this role for 8+ years
 
-[![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadinePlatonova)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadinePlatonova&layout=compact" height="140px"/>
+<!-- [![Nadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadinePlatonova)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadinePlatonova&layout=compact" height="140px"/> -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=NadinePlatonova&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadinePlatonova&layout=compact" height="140px"/>
