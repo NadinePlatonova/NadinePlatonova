@@ -4,11 +4,9 @@
 
 <p align="center"><img src="https://github.com/NadinePlatonova/NadinePlatonova/blob/main/cat-coding.gif" style ="display: block; width: 100%"></p>
 
-- 💻 My stack: HTML, CSS, JavaScript, React, Node.js, Express.js, TypeScript
-- 👀 In 2021 dived into web development, I enjoy moving even deeper, the bottom is not visible at all 😄
-- 🌱 Currently I'm learning TypeScript, Vue.js, Nuxt.js
-- 💞️ I want to become a JavaScript-Jedi
+- 💻 HTML, CSS, JavaScript, React, TypeScript, Vue.js, Nuxt.js, Node.js, Express.js
+- 💞️ I want to become a JavaScript-Jedi - to create cool and user-friendly websites and apps that can help people achieve their goals as much as possible
 - 📫 You can reach me at dev.nadia.platonova@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nadia-p-frontend/)
-- ⚡ Fun fact: accidentally became a recruiter and worked in this role for 8+ years
+- ⚡ Fun fact: until the age of 17, lived in Chukotka, where winter lasted 9 months a year (with a maximum cold temperature: -40-50°C)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NadinePlatonova&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadinePlatonova&layout=compact" height="140px"/></p>
