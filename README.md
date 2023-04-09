@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/NadinePlatonova/NadinePlatonova/blob/main/cat-coding.gif" style ="display: block; width: 100%"></p>
 
-- 💻 HTML, CSS, JavaScript, React, TypeScript, Vue.js, Nuxt.js, Node.js, Express.js
+- 💻 HTML, CSS, JavaScript, React, TypeScript, Vue.js, Nuxt.js, Node.js, Express.js, Webpack, Vite
 - 💞️ I want to become a JavaScript-Jedi - to create websites and applications of any complexity, write clean and maintainable code, thereby helping users achieve their goals as conveniently and quickly
 - 📫 You can reach me at dev.nadia.platonova@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nadia-p-frontend/)
 - ⚡ Fun fact: during 17 years lived in Chukotka, where winter lasted 9 months a year (with a maximum cold temperature: -40-50°C), but am still afraid of the cold
