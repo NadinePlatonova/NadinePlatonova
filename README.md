@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Nadia 👋</h1>
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+JavaScript+Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=217296&random=false&lines=Frontend+JavaScript+Developer" alt="Typing SVG" /></a>
 </div>
-<p>💻 Over 2 years of commercial experience in frontend. Stack, frameworks, platforms and libraries:</p> 
-<div align="center">
+<p>💻 Over 2 years of commercial experience in frontend. Skills:</p> 
+<div align="center">  
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 <p>💞️ I aspire to become a JavaScript Jedi - capable of creating websites and applications of any complexity. My goal is to write clean and maintainable code, helping users achieve their goals conveniently and efficiently.</p> 
-<p>📫 You can reach me at dev.nadia.platonova@gmail.com or on <span><a href="https://www.linkedin.com/in/nadineplatonova/">LinkedIn</a></span></p> 
+<p>📫 You can reach me at <span><a href="mailto:dev.nadia.platonova@gmail.com">dev.nadia.platonova@gmail.com</a></span> or on <span><a href="https://www.linkedin.com/in/nadineplatonova/">LinkedIn</a></span></p> 
 <p>⚡ Fun facts:</p>
 <ul>
   <li>I'm afraid of the cold, even though I lived in Chukotka for many years, where winters lasted 9 months with temperatures as low as -40 to -50°C.</li>
