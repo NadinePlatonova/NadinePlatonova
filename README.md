@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=217296&random=false&lines=Frontend+JavaScript+Developer" alt="Typing SVG" /></a>
 </div>
-<p>💻 Over 2 years of commercial experience in frontend. Skills:</p> 
+<p>💻 Over 2 years of commercial experience in frontend. <a href="https://nadia-platonova.netlify.app">My portfolio</a>. Skills:</p> 
 <div align="center">  
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
